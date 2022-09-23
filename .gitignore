@@ -1,5 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-netty-helloworld/netty-helloworld.iml
-netty-learning.iml
-/netty-helloworld/target/
+**.iml
+*/target/
 /.idea/
